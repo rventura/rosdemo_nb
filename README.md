@@ -14,8 +14,8 @@ Superior Técnico, University of Lisbon.
 
 Rodrigo Ventura
 
-Institute for Systems and Robotics
-Instituto Superior Técnico
-Lisbon, Portugal
-https://wp.isr.tecnico.ulisboa.pt/rventura
-https://linkedin.com/in/rodrigo-ventura
+Institute for Systems and Robotics<br/>
+Instituto Superior Técnico<br/>
+Lisbon, Portugal<br/>
+https://wp.isr.tecnico.ulisboa.pt/rventura<br/>
+https://linkedin.com/in/rodrigo-ventura<br/>
