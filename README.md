@@ -18,8 +18,8 @@ Superior Técnico, University of Lisbon.
 
 ## Links
 
-ROS2 documentation: https://docs.ros.org/
-Jupyter: https://jupyter.org/
+ROS2 documentation: https://docs.ros.org/ <br/>
+Jupyter: https://jupyter.org/ <br/>
 Python: https://www.python.org/
 
 ## Author:
